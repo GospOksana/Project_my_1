@@ -1,3 +1,41 @@
+@charset "UTF-8";
 body {
   background-color: #FFFFFF;
+  color: #1F1F1F;
+}
+
+/* Утиліти */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+.title {
+  color: #1F1F1F;
+}
+
+.title span {
+  color: #FF8126;
+}
+
+.button {
+  color: #FFFFFF;
+  background-color: #FF8126;
+}
+
+.learnmore__title {
+  color: #FFFFFF;
+}
+
+.offers__price {
+  color: #656565;
+}
+
+.offers__price span {
+  color: #FF8126;
 }/*# sourceMappingURL=main.css.map */
